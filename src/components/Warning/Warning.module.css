@@ -1,0 +1,10 @@
+.warning{
+    color: red;
+    display: flex;
+    justify-content: end;
+}
+
+.warning p{
+    font-size: 1rem;
+    font-weight: 400;
+}

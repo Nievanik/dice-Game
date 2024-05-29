@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+}
+
+.home_image img{
+    width: 650px;
+    height: 522px;
+
+}
+.home_text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.home_text h1{
+    font-size: 96px;
+    font-weight: 700;
+}
+
+.btn_container{
+    align-self: flex-end;
+}
